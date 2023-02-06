@@ -1,1 +1,6 @@
+
 feature 1 with 1 bug feature 2
+
+feature 1 with bug fix feature 2
+ main
+  
