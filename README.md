@@ -2,6 +2,6 @@
 
 Shaikha Mokhlis
 Reema Alshawi
-Randa ALsubaie
+Randa Asubaie
 Lamia Obaid
 Rahaf Aldukhayl
